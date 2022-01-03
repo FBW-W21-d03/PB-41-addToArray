@@ -1,15 +1,11 @@
 # javascript-addToArray
 
 ## Aufgabenstellung - Teil 1
-Eine Funktion soll in der Konsole ausgeben, wie alt eine Person ist und welchen Beruf sie hat.
-
-Beispiel: "John ist 20 Jahre als und ein Student."
-
-Schreibe dazu eine Funktion, die drei Parameter akzeptiert (Name, Alter, Beruf).
-
-Die Funktion gibt anschließend den Namen, das Alter und den Beruf in einer Konsolenausgabe aus.
+Schreibe das folgende Array in JavaScript: const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
 
 ## Aufgabenstellung - Teil 2
-Teste deine Funktion.
+Schreibe eine Funktion, die einen Gewinner in das Array hinzufügt.
 
-Denke dir eine Person mit einem Alter und einem Beruf aus.
+Die Funktion nimmt den Namen des Gewinners über einen Parameter auf.
+
+Anschließend fügt die Funktion den Namen dem Array hinzu.
