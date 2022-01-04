@@ -9,3 +9,6 @@ Schreibe eine Funktion, die einen Gewinner in das Array hinzufügt.
 Die Funktion nimmt den Namen des Gewinners über einen Parameter auf.
 
 Anschließend fügt die Funktion den Namen dem Array hinzu.
+
+# !NEU! - Verwende RETURN in der Funktion
+DIE FUNKTION SOLL ZUSÄTZLICH MIT RETURN DIE LÄNGE DES ARRAYS AUSGEBEN
