@@ -9,6 +9,8 @@ addWinner('Betty');
 addWinner('Max');
 addWinner('Axell');
 
+console.log(winners);
+
 let returnet = addWinner('Betty');
 let returnet1 = addWinner('Max');
 let returnet2 = addWinner('Axell');
