@@ -2,4 +2,9 @@
 
 const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
 
-console.log();
+winners.push("Nic");
+winners.push("Nac");
+winners.push("Noc");
+
+winners.sort();
+console.log("And the Winner is :", winners);
