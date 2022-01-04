@@ -11,7 +11,6 @@ function finalWinners (nameWinners) {
     winners.push(nameWinners)
  return winners.length;
 };
-let push=finalWinners("Rebeca");
-let finallist=winners;
-console.log(push);
-console.log(finallist);
+let newwinner=finalWinners("Rebeca");
+console.log(newwinner);
+console.log(winners);
