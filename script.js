@@ -1,10 +1,12 @@
 const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
 
-console.log(winners);
+function addWinner(name){
+    winners.push(name);
+}
 
-winners.push('Betty');
-winners.push('Max');
-winners.push('Axell');
+addWinner('Betty');
+addWinner('Max');
+addWinner('Axell');
 
 console.log(winners[2]);
 console.log(winners[3]);
