@@ -7,6 +7,7 @@ function gewiner(name) {
     winners.push(name);
     return winners.length;
 }
-
 gewiner("Orhan");
-console.log(winners);
+
+let winnersTotal = winners;
+console.log(winnersTotal);
