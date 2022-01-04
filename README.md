@@ -1,6 +1,7 @@
 # javascript-addToArray
 
 ## !NEU! - Verwende RETURN in der Funktion
+## DIE FUNKTION SOLL ZUSÄTZLICH MIT RETURN DIE LÄNGE DES ARRAYS AUSGEBEN
 
 ## Aufgabenstellung - Teil 1
 Schreibe das folgende Array in JavaScript: const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
