@@ -12,8 +12,12 @@ Anschließend fügt die Funktion den Namen dem Array hinzu.*/
 
 function addWinners (name){ 
 winners.push(name);
+return winners.length;
 
 };
 
 addWinners("Jemes")
 console.log (winners)
+
+let return1 = addWinners("Jemes");
+console.log (return1);
