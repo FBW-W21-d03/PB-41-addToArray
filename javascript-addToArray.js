@@ -5,6 +5,7 @@ const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
 function gewiner(name) {
 
     winners.push(name);
+    return winners.length;
 }
 
 gewiner("Orhan");
