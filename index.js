@@ -10,6 +10,6 @@ function gewinner(name) {
  let return1= gewinner("Sarah");
  let return2= gewinner("Hayat");
  let return3= gewinner("Rodi");
-console.log(return1,return2,return3);
+console.log(return1);
 
     
