@@ -1,5 +1,7 @@
 # javascript-addToArray
 
+## !NEU! - Verwende RETURN in der Funktion
+
 ## Aufgabenstellung - Teil 1
 Schreibe das folgende Array in JavaScript: const winners = ["Greg", "Flizzy", "Putput", "Hannibal"];
 
