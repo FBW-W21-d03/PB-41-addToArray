@@ -8,3 +8,4 @@ winners.push("Noc");
 
 winners.sort();
 console.log("And the Winner is :", winners);
+console.table(winners);
