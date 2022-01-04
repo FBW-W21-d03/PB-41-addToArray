@@ -21,5 +21,5 @@ function addWinner(name){
 addWinner("serdar")
 console.log(winners)
 
-let return1 = addWinner();
+let return1 = addWinner("serdar");
 console.log(return1);
