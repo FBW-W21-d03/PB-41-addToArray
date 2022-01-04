@@ -9,5 +9,4 @@ function gewiner(name) {
 }
 gewiner("Orhan");
 
-let winnersTotal = winners;
-console.log(winnersTotal);
+console.log(winners);
