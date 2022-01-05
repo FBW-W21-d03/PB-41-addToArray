@@ -6,3 +6,4 @@ function gewonnen(name) {
 gewonnen("Osei");
 gewonnen("Mak");
 gewonnen("Tim");
+gewonnen("Jim");
