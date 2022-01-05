@@ -8,17 +8,12 @@ function addWinners(name) {
 winners.push(name);
 };
 
-addWinners("Lilly")
+function gewinner(name) {
+  winners.push(name);
+  return winners.length;
+}
+gewinner("Dennis");
 
-
-
-// Aufgabe 2 ohne function
-winners.push("Dennis");
-winners.push("Alexandra");
-winners.push("Lucas");
-// Sortiert nach Alphabet ( Bonus )
-winners.sort();
-
-console.log("Gewonnen haben :",winners);
+console.log(winners);
 
 
